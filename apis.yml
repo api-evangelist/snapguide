@@ -28,7 +28,7 @@ x-enrichment-finding: >-
   Every /.well-known/* path returns 200 with the same parking HTML (catch-all), so
   no real WellKnown/SecurityTxt documents exist. No developer portal, docs, API
   reference, SDK, package, or OpenAPI surface was found. No artifacts fabricated.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
